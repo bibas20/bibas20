@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bibas20
-👀 I’m interested in ... coding
-🌱 I’m currently learning ... html, css , java
+👀 I’m interested in coding,Travelling and Photography
+🌱 I’m currently learning  html, css , javascript,oop in java 
 👨‍💻 learnt c, tally,python
-💞️ I’m looking to collaborate on ... microsoft
-📫 How to reach me ... mail(bibasghimire0123@gmail.com)
-⚡ Fun fact: ... I am good at communication🫠
+💞️ I’m looking to collaborate on big Tech compamy
+📫 How to reach me  mail(bibasghimire0123@gmail.com)
+⚡ Fun fact: I am good at communication🫠
 
   
   
